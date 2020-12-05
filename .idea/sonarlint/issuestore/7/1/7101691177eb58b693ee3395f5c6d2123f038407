@@ -1,0 +1,11 @@
+
+L
+java:S1481$"*Remove this unused "query" local variable.(ŸóŠşÿÿÿÿ8ØÀÄĞá.
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Œ‡µÚúÿÿÿÿ8ß¬šÎá.
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(¡¿…ùÿÿÿÿ8“€ÓÍá.
+[
+java:S1854$"9Remove this useless assignment to local variable "query".(ŸóŠşÿÿÿÿ8ØÀÄĞá.
+€
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(”Ãšùÿÿÿÿ8€ö¼Îá.

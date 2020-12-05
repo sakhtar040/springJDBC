@@ -1,0 +1,7 @@
+
+i
+java:S1128"GRemove this unused import 'org.springframework.jdbc.core.JdbcTemplate'.(å ê‹ÿÿÿÿÿ8§ëÝÍá.
+X	java:S125"<This block of commented-out lines of code should be removed.(¡ªÿ8ãÙöÎá.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ýì¹Ö8«ÊƒÌá.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ô·êá8­àíÍá.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÙœ¨8ßæ…Ïá.
